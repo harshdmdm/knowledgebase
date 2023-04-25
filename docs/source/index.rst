@@ -8,7 +8,8 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    This project is under active development.
    
 .. toctree::
-   usage
+   home/gratama
+   test
 
 Telescopes
 ----------
