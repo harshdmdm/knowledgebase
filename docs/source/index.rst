@@ -41,6 +41,7 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    
 .. toctree::
    :caption: Project Manual
+   :maxdepth: 2
    
    pm/data-reduction
    pm/a1-scientific-poster
