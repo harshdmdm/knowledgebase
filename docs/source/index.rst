@@ -9,14 +9,11 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    
 .. toctree::
    home/gratama
-   test
 
 Telescopes
 ----------
 
 .. toctree::
-   :caption: Home
-   test
    home/gratama
    home/ldst
    home/queue
