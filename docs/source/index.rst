@@ -6,6 +6,9 @@ This documentation includes user and project manuals for the Blaauw Observatory 
 .. note::
 
    This project is under active development.
+   
+.. toctree::
+   usage
 
 Telescopes
 ----------
