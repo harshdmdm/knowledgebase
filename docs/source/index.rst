@@ -13,3 +13,52 @@ Telescopes
 .. toctree::
    :caption: Home
    test
+   home/gratama
+   home/ldst
+   home/queue
+
+Archive
+-------
+
+.. toctree::
+   :caption: Archive
+   archive/data
+   archive/calibrations
+   archive/observations
+   archive/records
+   archive/vo
+
+Issues and Reports
+------------------
+
+.. toctree::
+   :caption: Issues and Reports
+   issues/issues
+   issues/tickets
+   issues/nightreport
+
+Other Tools
+-----------
+
+.. toctree::
+   :caption: Other Tools
+   tools/snippets
+   tools/libraries
+   tools/stellarium
+   tools/obstools
+   tools/links
+   
+Project Manual
+--------------
+
+.. toctree::
+   :caption: Project Manual
+   pm/datacheat
+   pm/results
+   pm/guides
+   pm/reference
+   
+
+  
+
+
