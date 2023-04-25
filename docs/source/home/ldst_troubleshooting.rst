@@ -19,10 +19,11 @@ Hand Controller Will Not Connect
   - Log into router as blauuwobs@gmail.com
   - Check in Network Map - Wired Clients
   - If MAC address 00-C0-08-96-62-87 is missing or assigned an IP that is NOT 192.168.0.111
-  - Click Reboot (Top Right) and Reboot Router
-  - When able to reconnect, re attempt connection if not established
+    - Click Reboot (Top Right) and Reboot Router
+    - When able to reconnect, re attempt connection if not established
   
 Persistent Bad Link from Dome Controller
+----------------------------------------
 
 .. warning:: Level 5 Only: Reinstall Firmware
   
