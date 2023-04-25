@@ -6,14 +6,13 @@ This documentation includes user and project manuals for the Blaauw Observatory 
 .. note::
 
    This project is under active development.
-   
-.. toctree::
-   home/gratama
 
 Telescopes
 ----------
 
 .. toctree::
+   :caption: Telescopes
+   
    home/gratama
    home/ldst
    home/queue
@@ -23,6 +22,7 @@ Archive
 
 .. toctree::
    :caption: Archive
+   
    archive/data
    archive/calibrations
    archive/observations
@@ -34,6 +34,7 @@ Issues and Reports
 
 .. toctree::
    :caption: Issues and Reports
+   
    issues/issues
    issues/tickets
    issues/nightreport
@@ -43,6 +44,7 @@ Other Tools
 
 .. toctree::
    :caption: Other Tools
+   
    tools/snippets
    tools/libraries
    tools/stellarium
@@ -54,12 +56,8 @@ Project Manual
 
 .. toctree::
    :caption: Project Manual
+   
    pm/datacheat
    pm/results
    pm/guides
    pm/reference
-   
-
-  
-
-
