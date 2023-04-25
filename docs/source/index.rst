@@ -13,4 +13,3 @@ Telescopes
 .. toctree::
    :caption: Home
    test
-   home/gratama
