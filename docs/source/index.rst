@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Blaauw Observer Knowledgebase!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This documentation includes user and project manuals for the Blaauw Observatory of the University of Groningen, with the two telescopes: The Gratama Bernoulliborg Telescope and the Lauwersmeer Dark Sky Telescope; plus our other Dark Sky and Environmental Monitoring Systems.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
