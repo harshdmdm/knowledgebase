@@ -3,16 +3,16 @@ LDST Troubleshooting
 
 .. topic:: Hand Controller Will Not Connect
 
-..note:: Complete this checklist first -- stop if reconnected!
+.. note:: Complete this checklist first -- stop if reconnected!
   
-[ ] In the handcontroller menu click disconnect
-[ ] Enter settings and select autoconnect
-[ ] Exit handcontroller
-[ ] Restart handcontroller
+  [ ] In the handcontroller menu click disconnect
+  [ ] Enter settings and select autoconnect
+  [ ] Exit handcontroller
+  [ ] Restart handcontroller
   
-..warning:: OS Only: Reconnect by Router Reboot
+.. warning:: OS Only: Reconnect by Router Reboot
   
-..warning:: Shut Down Observing Before Proceeding
+.. warning:: Shut Down Observing Before Proceeding
   
 [ ] Open 192.168.0.1 in chrome
 [ ] Log into router as blauuwobs@gmail.com
@@ -23,7 +23,7 @@ LDST Troubleshooting
   
 .. topic:: Persistent Bad Link on Dome
 
-..warning:: Level 5 Only: Reinstall Firmware
+.. warning:: Level 5 Only: Reinstall Firmware
   
 [ ] Exit Scopedome
 [ ] Navigate to C:\ScopeDome\Card_Firmware\Arduino\XLoader
