@@ -29,11 +29,11 @@ Persistent Bad Link from Dome Controller
 .. warning:: Level 5 Only: Reinstall Firmware
   
   - Exit Scopedome
-  - Navigate to C:\ScopeDome\Card_Firmware\Arduino\XLoader
+  - Navigate to C:\\ScopeDome\\Card_Firmware\\Arduino\\XLoader
   - Launch XLoader
   - Upload Firmware with Settings:
   
-    - Hex File: C:\ScopeDome\Card_Firmware\Arduino\SD_Dome5.4.ino.mega.hex
+    - Hex File: C:\\ScopeDome\\Card_Firmware\\Arduino\\SD_Dome5.4.ino.mega.hex
     - Device: Mega(ATMEGA2560)
     - COM Port: COM40
     - Baud Rate: 115200
