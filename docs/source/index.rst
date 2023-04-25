@@ -42,7 +42,10 @@ This documentation includes user and project manuals for the Blaauw Observatory 
 .. toctree::
    :caption: Project Manual
    
-   pm/datacheat
+   pm/data-reduction
+   pm/a1-scientific-poster
+   pm/a2-scientific-talk
+   pm/p1-galaxy-radii
    pm/results
    pm/guides
    pm/reference
