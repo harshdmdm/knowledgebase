@@ -12,6 +12,7 @@ Telescopes
 
 .. toctree::
    :caption: Home
+   test
    home/gratama
    home/ldst
    home/queue
