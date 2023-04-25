@@ -47,6 +47,13 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    pm/a1-scientific-poster
    pm/a2-scientific-talk
    pm/p1-galaxy-radii
+   pm/p2-open-clusters
+   pm/p3-variable-stars
+   pm/p4-galaxy-cluster-mosaic
+   pm/p5-nebular-extinction
+   pm/p6-near-earth-objects
    pm/results
    pm/guides
    pm/reference
+
+

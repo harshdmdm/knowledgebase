@@ -1,3 +1,5 @@
+.. _p1-galaxy-radii:
+
 P01. Galaxy Radii
 =================
 
