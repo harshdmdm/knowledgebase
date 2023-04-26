@@ -16,9 +16,9 @@ E06° 32' 11" N53° 14' 25" Elevation 19m
   gbt_telemetry
   gbt_latest_night
   
-.. topic:: Last Night Sky Quality Zernkie
+*Last Night Sky Quality Zernkie*
 
-.. image:: https://washetdonker.nl/live/SQM_Zernike.png
+.. image:: https://washetdonker.nl/live/SQM_Groningen-ZernikeCampus.png
   :width: 66%
   
 .. toctree::
