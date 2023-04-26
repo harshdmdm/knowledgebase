@@ -23,7 +23,8 @@ Hand Controller Will Not Connect
     - Click Reboot (Top Right) and Reboot Router
     - When able to reconnect, re attempt connection if not established
 
-.. todo:: Final Solution
+.. seealso:: Final Solution
+
   - Cycle the power on the physical hand controller
   - Check the LAN and WiFi Connection Symbols Reappear
   - Recheck the connection on the PC
