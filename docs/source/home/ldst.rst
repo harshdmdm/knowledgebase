@@ -16,7 +16,13 @@ E06° 14' 04" N53° 23' 05" Elevation 0m
   ldst_troubleshooting
   
 .. toctree::
+  :caption: Observations
+  
+  ldst_telemetry
+  ldst_latest_night
+  
+.. toctree::
   :caption: Properties
   
-  ldst_site
-  ldst_ccd
+  ldst_telescope
+  ldst_instruments
