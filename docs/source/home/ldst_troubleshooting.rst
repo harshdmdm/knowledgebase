@@ -23,7 +23,7 @@ Hand Controller Will Not Connect
     - Click Reboot (Top Right) and Reboot Router
     - When able to reconnect, re attempt connection if not established
 
-.. seealso:: Final Solution
+.. seealso:: Final Solution: At the LDST
 
   - Cycle the power on the physical hand controller
   - Check the LAN and WiFi Connection Symbols Reappear
