@@ -21,6 +21,11 @@ E06° 14' 04" N53° 23' 05" Elevation 0m
   ldst_telemetry
   ldst_latest_night
   
+.. topic:: Last Night Sky Quality Lauwersmeer
+
+.. image:: https://washetdonker.nl/live/SQM_Lauwersoog.png
+  :width: 66%
+  
 .. toctree::
   :caption: Properties
   
