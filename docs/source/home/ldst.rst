@@ -1,9 +1,9 @@
 Lauwersmeer Dark Sky Telescope
 ==============================
 
-.. image:: http://stem.ooo/LDST/image_o.jpg
+.. image:: http://stem.ooo/LDST/image_o.png
   :width: 48%
-.. image:: http://stem.ooo/LDST/image.jpg
+.. image:: http://stem.ooo/LDST/image.png
   :width: 48%
 
 .. toctree::
