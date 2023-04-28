@@ -7,7 +7,7 @@ Observing Goals:
 Your goal is to measure the sky brightness above your observatory, and investigate how it is connected to any sources of light pollution.
 Useful Background and References:
 
-    * Polar Graph Paper is attached (below) which may be helpful in keeping track of your observations.
+    * :download:`Polar Graph Paper </files/Polar Graph Paper A4.pdf>` is attached which may be helpful in keeping track of your observations.
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
@@ -39,8 +39,8 @@ Data Ananlysis:
 
         * As desribed above you should produce two sets of combined images for each location
 
-            * 1) median images without aligning the dithered frames, to get "blank sky" images
-            * 2) images where you align the frames and combine them to measure brightnesses of stars in the frame
+            1. median images without aligning the dithered frames, to get "blank sky" images
+            2. images where you align the frames and combine them to measure brightnesses of stars in the frame
 
     * Further Analysis for this project
 
@@ -63,8 +63,3 @@ Presenting your results:
 
    - :ref:`a1-poster`
    - :ref:`a2-talk`
-
-Files:
-^^^^^^
-
-Something should be added...

@@ -10,12 +10,11 @@ You will observe the light curve of a asteroid
 Useful Background and References:
 
     * A list of currently "in the sky" asteroids is available at: https://in-the-sky.org/data/asteroids.php
-    * Attached to this page (below), are a Jupyter Notebook and a csv data file which let you find properties of asteroid light curves (from the PSI Asteroid Light Curve Database)
+    * Here are a :download:`Jupyter Notebook </files/Asteroid_LC.ipynb>` and a :download:`csv data file </files/lc_summary.csv>` which let you find properties of asteroid light curves (from the PSI Asteroid Light Curve Database)
     * Make finder charts: https://theskylive.com/ (The search here is quite bad -- but if you use google for the name of the asteroid, you can find the skylive link that way)
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
-
 
     * Target Selection
 
@@ -28,7 +27,6 @@ Observation Planning:
 
 Data Ananlysis:
 ^^^^^^^^^^^^^^^
-
 
     * Data Reduction Basic Steps
 
