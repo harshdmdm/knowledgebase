@@ -52,8 +52,17 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    pm/p4-galaxy-cluster-mosaic
    pm/p5-nebular-extinction
    pm/p6-near-earth-objects
+   pm/p7-globular-cluster-radii
+   pm/p8-mountains-moon
+   pm/p9-asteroid-light-curve
+   pm/p10-interacting-galaxy-colours
+   pm/p11-night-sky-brightness
+   pm/p12-satellite-constellations
+   pm/p13-emission-line-mapping
+   pm/p14-exoplanet-transit
+   pm/p15-star-formation-spirals
+   pm/p16-properties-comet
+   pm/p17-observing-dwarf-planets
    pm/results
    pm/guides
    pm/reference
-
-

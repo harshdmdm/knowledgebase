@@ -38,8 +38,8 @@ Data Analysis:
 
         * Try to find out if the galaxies are spirals or elipticals. 
 
-Results: 
-^^^^^^^^^
+Results:
+^^^^^^^^
 
 Can you answer these questions with your work?
 
