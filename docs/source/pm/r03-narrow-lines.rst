@@ -6,11 +6,11 @@ This assumes that you have observations in a Narrow Band filter and a Broad Band
 Terms that are used:
 --------------------
 
-:math:`f_B` the flux in the Broad Band Filter (e.g. B, V, R, I)
+:math:`f_B` the flux in the Broad Band Filter (e.g. B, V, R, I) \\
 :math:`f_N` the flux in the Narrow Band Filter (e.g. Ha, OIII, SII)
 
 
-:math:`f_C` the continuum flux
+:math:`f_C` the continuum flux \\
 :math:`f_L` the line flux
 
 
@@ -27,11 +27,9 @@ First select a continuum source (or better repeat for several continuum sources)
 
 .. math::
 
-   f_B = f_C
-   
-   f_N = kf_C
-   
-   f_N / f_B = k
+   f_B &= f_C \\
+   f_N &= kf_C \\
+   f_N / f_B &= k
    
 When you have found your value for k (or average value for k, which is of course more reliable), you can look at your source of interest, which we want to break down into line and continuum fluxes.
 
@@ -41,16 +39,10 @@ When you have found your value for k (or average value for k, which is of course
 
    f_B &= f_C + f_L \\
    f_N &= (kf_C) + f_L \\
-  
-
    f_B - f_N &= f_C (1-k) \\
-   
    f_C &= (f_B - f_N) / (1-k) \\
-   
    f_L &= f_B - f_C = f_B - (f_B - f_N) / (1-k) \\
-   
    (1-k)f_L &= f_B - kf_B - f_B + f_N \\
-   
    f_L &= (f_N - kf_B) / (1-k)
    
 so you have now measured the Line flux from the source, separated from the continuum flux.
