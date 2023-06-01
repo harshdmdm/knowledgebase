@@ -57,12 +57,12 @@ If you have the special case of multiple lines on top of a broad band filter the
 .. math::
 
    f_B &= f_C \\
-   f_N_1 &= k_1f_C \\
-   f_N_2 &= k_2f_C \\
-   \therefore k_1 &= \frac{f_N_1}{f_B}
-   k_2 &= \frac{f_N_2}{f_B}
+   {f_N}_1 &= k_1f_C \\
+   {f_N}_2 &= k_2f_C \\
+   \therefore k_1 &= \frac{{f_N}_1}{f_B}
+   k_2 &= \frac{{f_N}_2}{f_B}
    
-When you have found your values for :math:`k_1` and :math:`k_1` (or the average values), you can look at your source of interest, which we want to break down into line and continuum fluxes.
+When you have found your values for :math:`k_1` and :math:`k_2` (or the average values), you can look at your source of interest, which we want to break down into line and continuum fluxes.
 
 **For the line + continuum source:**
 
