@@ -75,7 +75,7 @@ When you have found your values for :math:`k_1` and :math:`k_2` (or the average 
    {f_L}_1 + {f_L}_2 &= 2f_B - {f_N}_1 - {f_N}_2 - (2 - k_1 - k_2)f_C \\
    &... \\
    -f_B &= (k_1 + k_2 - 1)f_C - {f_N}_1 - {f_N}_2 \\
-   \therefore f_C &= \frac{({f_N}_1 + {f_N}_2) - f_B}{k_1 + k_2 - 1}
+   \therefore f_C &= \frac{({f_N}_1 + {f_N}_2) - f_B}{k_1 + k_2 - 1}\\
    \\
    (1) \implies {f_L}_1 &= {f_N}_1 - k_1f_C \mathrm{\ (which\ can\ be\ used)}\\
    &= {f_N}_1 - k_1\left( \frac{({f_N}_1 + {f_N}_2) - f_B}{k_1 + k_2 - 1}\right) \\
