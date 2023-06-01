@@ -27,7 +27,7 @@ First select a continuum source (or better repeat for several continuum sources)
 
    f_B &= f_C \\
    f_N &= kf_C \\
-   f_N / f_B &= k
+   \frac{f_N}{f_B} &= k
    
 When you have found your value for k (or average value for k, which is of course more reliable), you can look at your source of interest, which we want to break down into line and continuum fluxes.
 
