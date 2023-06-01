@@ -40,7 +40,8 @@ When you have found your value for k (or average value for k, which is of course
    f_B - f_N &= f_C (1-k) \\
    f_C &= \frac{f_B - f_N}{1-k} \\
    \\
-   f_L &= f_B - f_C = f_B - \frac{f_B - f_N}{1-k} \\
+   f_L &= f_B - f_C \\
+   &= f_B - \frac{f_B - f_N}{1-k} \\
    (1-k)f_L &= f_B - kf_B - f_B + f_N \\
    f_L &= \frac{f_N - kf_B}{1-k}
    
