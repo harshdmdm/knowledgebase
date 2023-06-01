@@ -1,7 +1,7 @@
 R03: Calculating Narrow Lines
 =============================
 
-This assumes that you have observations in a Narrow Band filter and a Broad Band Filter that underlies (in wavelength) the Narrow Band Filter. The calculations assume that only one emission line is significant within the range of the broad band filter from the line source, and that the underlying continuum is well represented by other continuum sources in the image. 
+This assumes that you have observations in a Narrow Band filter and a Broad Band Filter that underlies (in wavelength) the Narrow Band Filter. The calculations assume that only one emission or absoprtion line is significant within the range of the broad band filter from the line source, and that the underlying continuum is well represented by other continuum sources in the image. 
 
 Terms that are used:
 --------------------
