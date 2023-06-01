@@ -7,7 +7,7 @@ Terms that are used:
 --------------------
 
 | :math:`f_B` the flux in the Broad Band Filter (e.g. B, V, R, I)
-| :math:`f_N` the flux in the Narrow Band Filter (e.g. H:math:`\alpha`, OIII, SII)
+| :math:`f_N` the flux in the Narrow Band Filter (e.g. H :math:`\alpha`, H :math:`beta`, [OIII], [SII])
 |
 | :math:`f_C` the continuum flux
 | :math:`f_L` the line flux
