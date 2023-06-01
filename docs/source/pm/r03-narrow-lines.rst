@@ -7,7 +7,7 @@ Terms that are used:
 --------------------
 
 | :math:`f_B` the flux in the Broad Band Filter (e.g. B, V, R, I)
-| :math:`f_N` the flux in the Narrow Band Filter (e.g. Ha, OIII, SII)
+| :math:`f_N` the flux in the Narrow Band Filter (e.g. H:math:`\alpha`, OIII, SII)
 |
 | :math:`f_C` the continuum flux
 | :math:`f_L` the line flux
@@ -27,7 +27,7 @@ First select a continuum source (or better repeat for several continuum sources)
 
    f_B &= f_C \\
    f_N &= kf_C \\
-   \bm{k } &\bm{= \frac{f_N}{f_B}}
+   \therefore k &= \frac{f_N}{f_B}
    
 When you have found your value for k (or average value for k, which is of course more reliable), you can look at your source of interest, which we want to break down into line and continuum fluxes.
 
@@ -38,12 +38,12 @@ When you have found your value for k (or average value for k, which is of course
    f_B &= f_C + f_L \\
    f_N &= (kf_C) + f_L \\
    f_B - f_N &= f_C (1-k) \\
-   \bm{f_C } &\bm{= \frac{f_B - f_N}{1-k}} \\
+   \therefore f_C &= \frac{f_B - f_N}{1-k} \\
    \\
    f_L &= f_B - f_C \\
    &= f_B - \frac{f_B - f_N}{1-k} \\
    (1-k)f_L &= f_B - kf_B - f_B + f_N \\
-   \bm{f_L } &\bm{= \frac{f_N - kf_B}{1-k}}
+   \therefore f_L &= \frac{f_N - kf_B}{1-k}
    
 so you have now measured the Line flux from the source, separated from the continuum flux.
    
