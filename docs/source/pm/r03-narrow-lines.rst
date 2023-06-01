@@ -47,8 +47,8 @@ When you have found your value for k (or average value for k, which is of course
    
 so you have now measured the Line flux from the source, separated from the continuum flux.
 
-Multiple Lines on a single broad filter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Multiple Lines on a single broad filter:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you have the special case of multiple lines on top of a single broad band filter then the situation is of course more complex
 
@@ -80,6 +80,7 @@ When you have found your values for :math:`k_1` and :math:`k_2` (or the average 
    (1) \implies {f_L}_1 &= {f_N}_1 - k_1f_C \mathrm{\ (which\ can\ be\ used\ already)}\\
    &= {f_N}_1 - k_1\left( \frac{({f_N}_1 + {f_N}_2) - f_B}{k_1 + k_2 - 1}\right) \\
    \therefore {f_L}_1 &= \frac{(k_2 - 1){f_N}_1 - ({f_N}_2 + {f_B})/k_1}{k_1 + k_2 - 1}
+   {f_L}_2 &= \frac{(k_1 - 1){f_N}_2 - ({f_N}_1 + {f_B})/k_2}{k_1 + k_2 - 1}
 
 so you have now measured the Line fluxes from the source, separated from the continuum flux.
 
