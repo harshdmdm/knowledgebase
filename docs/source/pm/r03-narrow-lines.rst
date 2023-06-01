@@ -21,7 +21,7 @@ Steps
 
 First select a continuum source (or better repeat for several continuum sources) e.g. stars in your image. Your goal here is to find the conversion factor :math:`k` that allows you to scale between the broad and narrow filters.
 
-**For the continuum source:**
+**For the continuum source(s):**
 
 .. math::
 
@@ -46,4 +46,41 @@ When you have found your value for k (or average value for k, which is of course
    \therefore f_L &= \frac{f_N - kf_B}{1-k}
    
 so you have now measured the Line flux from the source, separated from the continuum flux.
+
+Multiple Lines
+^^^^^^^^^^^^^^
+
+If you have the special case of multiple lines on top of a broad band filter then the situation is of course more complex
+
+**For the continuum source(s):**
+
+.. math::
+
+   f_B &= f_C \\
+   f_N_1 &= k_1f_C \\
+   f_N_2 &= k_2f_C \\
+   \therefore k_1 &= \frac{f_N_1}{f_B}
+   k_2 &= \frac{f_N_2}{f_B}
+   
+When you have found your values for :math:`k_1` and :math:`k_1` (or the average values), you can look at your source of interest, which we want to break down into line and continuum fluxes.
+
+**For the line + continuum source:**
+
+.. math::
+
+   f_B &= f_C + f_L_1 + f_L_2 \\
+   f_N_1 &= (k_1f_C) + f_L_1 \to (1) \\
+   f_N_2 &= (k_2f_C) + f_L_2 \\
+   &... \\
+   f_L_1 + f_L_2 &= 2f_B - f_N_1 - f_N_2 - (2 - k_1 - k_2)f_C
+   &... \\
+   -f_B &= (k_1 + k_2 - 1)f_C - f_N_1 - f_N_2 \\
+   \therefore f_C &= \frac{(f_N_1 + f_N_2) - f_B}{k_1 + k_2 - 1}
+   \\
+   (1) \implies f_L_1 &= f_N_1 - k_1f_C \mathrm{(which can be used)}\\
+   &= f_N_1 - k_1\left \(\frac{(f_N_1 + f_N_2) - f_B}{k_1 + k_2 - 1}\right \) \\
+   \therefore &= \frac{(k_2 - 1)f_N_1 - f_N_2/k_1 - f_B/k_1}{k_1 + k_2 - 1}
+
+so you have now measured the Line fluxes from the source, separated from the continuum flux.
+
    
