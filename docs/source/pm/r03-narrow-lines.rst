@@ -59,7 +59,7 @@ If you have the special case of multiple lines on top of a broad band filter the
    f_B &= f_C \\
    {f_N}_1 &= k_1f_C \\
    {f_N}_2 &= k_2f_C \\
-   \therefore k_1 &= \frac{{f_N}_1}{f_B}
+   \therefore k_1 &= \frac{{f_N}_1}{f_B} \\
    k_2 &= \frac{{f_N}_2}{f_B}
    
 When you have found your values for :math:`k_1` and :math:`k_2` (or the average values), you can look at your source of interest, which we want to break down into line and continuum fluxes.
@@ -68,18 +68,18 @@ When you have found your values for :math:`k_1` and :math:`k_2` (or the average 
 
 .. math::
 
-   f_B &= f_C + f_L_1 + f_L_2 \\
-   f_N_1 &= (k_1f_C) + f_L_1 \to (1) \\
-   f_N_2 &= (k_2f_C) + f_L_2 \\
+   f_B &= f_C + {f_L}_1 + {f_L}_2 \\
+   {f_N}_1 &= (k_1f_C) + {f_L}_1 \to (1) \\
+   {f_N}_2 &= (k_2f_C) + {f_L}_2 \\
    &... \\
-   f_L_1 + f_L_2 &= 2f_B - f_N_1 - f_N_2 - (2 - k_1 - k_2)f_C
+   {f_L}_1 + {f_L}_2 &= 2f_B - {f_N}_1 - {f_N}_2 - (2 - k_1 - k_2)f_C \\
    &... \\
-   -f_B &= (k_1 + k_2 - 1)f_C - f_N_1 - f_N_2 \\
-   \therefore f_C &= \frac{(f_N_1 + f_N_2) - f_B}{k_1 + k_2 - 1}
+   -f_B &= (k_1 + k_2 - 1)f_C - {f_N}_1 - {f_N}_2 \\
+   \therefore f_C &= \frac{({f_N}_1 + {f_N}_2) - f_B}{k_1 + k_2 - 1}
    \\
-   (1) \implies f_L_1 &= f_N_1 - k_1f_C \mathrm{(which can be used)}\\
-   &= f_N_1 - k_1\left \(\frac{(f_N_1 + f_N_2) - f_B}{k_1 + k_2 - 1}\right \) \\
-   \therefore &= \frac{(k_2 - 1)f_N_1 - f_N_2/k_1 - f_B/k_1}{k_1 + k_2 - 1}
+   (1) \implies {f_L}_1 &= {f_N}_1 - k_1f_C \mathrm{(which can be used)}\\
+   &= {f_N}_1 - k_1\left \(\frac{({f_N}_1 + {f_N}_2) - f_B}{k_1 + k_2 - 1}\right \) \\
+   \therefore &= \frac{(k_2 - 1){f_N}_1 - ({f_N}_2 + {f_B})/k_1}{k_1 + k_2 - 1}
 
 so you have now measured the Line fluxes from the source, separated from the continuum flux.
 
