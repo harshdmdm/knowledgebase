@@ -6,13 +6,13 @@ This assumes that you have observations in a Narrow Band filter and a Broad Band
 Terms that are used:
 --------------------
 
-|:math:`f_B` the flux in the Broad Band Filter (e.g. B, V, R, I)
-|:math:`f_N` the flux in the Narrow Band Filter (e.g. Ha, OIII, SII)
+| :math:`f_B` the flux in the Broad Band Filter (e.g. B, V, R, I)
+| :math:`f_N` the flux in the Narrow Band Filter (e.g. Ha, OIII, SII)
 |
-|:math:`f_C` the continuum flux
-|:math:`f_L` the line flux
+| :math:`f_C` the continuum flux
+| :math:`f_L` the line flux
 |
-|:math:`k` the observed filter scaling factor
+| :math:`k` the observed filter scaling factor
 
 Note that the fluxes that emerge will be in the same units as the fluxes in the broad band filter.
 
