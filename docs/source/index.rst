@@ -67,3 +67,11 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    pm/r03-narrow-lines
    pm/guides
    pm/reference
+
+.. toctree::
+   :caption: Practical Astronomy Crew
+   :maxdepth: 1
+   
+   pac/software-projects
+   pac/hardware-projects
+   pac/education-projects
