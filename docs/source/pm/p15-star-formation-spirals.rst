@@ -13,6 +13,9 @@ Useful Background and References:
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
 
+   * Observation Time
+
+        * You will be observing HALF night shift.
 
     * Target Selection
 
@@ -24,7 +27,7 @@ Observation Planning:
         * You should observe in the R and H_alpha bands -- note that H_alpha is much narrower that R so requires a lot more observing time. (You may also want other filters to construct multi-colour images)
         * You should observe continuum sources (e.g. stars) so that you can remove the continuum emission from the narrow filter. This could be by observing a standard star field with plenty of stars in it (remember some stars will have significant H_alpha absorption, and in some wierdd cases, emission, so you need enough stars to make a solid average). 
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
