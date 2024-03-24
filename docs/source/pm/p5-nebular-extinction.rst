@@ -14,6 +14,7 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+    * Expect HALF a night observing, either shift A or shift B.
 
     * Target Selection
 
@@ -27,21 +28,20 @@ Observation Planning:
         * Note that the Hβ filter images will need to be much longer than the other images
         * We strongly suggest that you take all of your images, including the calibration images (flat fields and bias frames), with the imaging CCD in 3⨯3 binning mode. (This reduces the resolution of your images but greatly improves the signal-to-noise.)
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
     * Data Reduction Basic Steps
 
         * Visit the page :ref:`data-reduction`
         * Register and combine your images for each filter
-
     * Further for this project
 
         * Create an H_alpha/H_beta image
         * To make it even more precise, you might want to first subtract the R-band image from the Hα image and the V-band image from the Hβ image.
 
     * Further Analysis for this project
-
+        * Refer to this link for the flux knowledge https://blaauwobserverknowledgebase.readthedocs.io/en/latest/pm/r03-narrow-lines.html
         * Compare the values of the H_a/H_b ratio across the image. In a fully calibrated image the ratio will be 2.74 in fully calibrated flux units in the case of emission from 10000K nebua with pure H and He ("case B recombination"; see Osterbrock & Ferland 2005). 
         * Any variation from this number means that there is extinction by dust in the nebula.
 
