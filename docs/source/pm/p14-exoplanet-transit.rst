@@ -50,10 +50,11 @@ Can you answer these questions with your work?
 
     * Q1: Were you able to detect the exoplanet transit? If not, can you provide evidence that it was beyond the limits of your observations?
     * Q2: Did the transit of the exoplanet match your expectations?
+    * Q3: What limits are put on exoplanet transits that could be observed using our telescope?
 
 Presenting your results:
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
    - :ref:`a1-poster`
    - :ref:`a2-talk`
-    * Q3: What limits are put on exoplanet transits that could be observed using our telescope?
+
