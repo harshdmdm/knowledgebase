@@ -11,6 +11,9 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+    * Observation Time
+
+        * You will be observing HALF a night shift.
 
     * Target Selection
 
@@ -44,8 +47,7 @@ Results:
 Can you answer these questions with your work?
 
     * Q1 Can you identify and quantify the stars and galaxies in your Mosaic?
-    * Q2 
-    * Q3 What is the ratio of spirals to elipticals as a function of the number density of galaxies.
+    * Q2 What is the ratio of spirals to elipticals as a function of the number density of galaxies?
 
 Presenting your results:
 ^^^^^^^^^^^^^^^^^^^^^^^^
